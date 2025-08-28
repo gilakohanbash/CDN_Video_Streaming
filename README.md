@@ -16,7 +16,7 @@ This project implements a UDP-based video streaming system with adaptive bitrate
 
 ---
 
-##Features
+## Features
 
 - **Custom Video Server & Client** — Built to simulate realistic UDP behavior.
 - **Congestion Control** — Real-time adjustment of bitrate using AIMD and LIRC logic.
